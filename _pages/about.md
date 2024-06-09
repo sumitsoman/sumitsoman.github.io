@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Senior Data Scientist with the [Global AI Accelerator](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india/ericsson-in-india/global-artificial-intelligence-accelerator-india)  at [Ericsson R&D](https://www.ericsson.com/en). I currently work on telecom use-cases for Large Language Models (LLMs).
 
-I am a Senior Member of the [IEEE](https://www.ieee.org/) and Chair of the [IEEE Sensors Council](https://ieee-sensors.org/), [Bangalore Chapter](https://sensorscouncil.ieeebangalore.org/).
+I am also a Senior Member of the [IEEE](https://www.ieee.org/) and current Chair of the [IEEE Sensors Council](https://ieee-sensors.org/), [Bangalore Chapter](https://sensorscouncil.ieeebangalore.org/).
 
 My research interests are machine learning, telecom AI, health informatics and brain computer interfaces. 
 
