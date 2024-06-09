@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Senior Data Scientist with the [Global AI Accelerator](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india/ericsson-in-india/global-artificial-intelligence-accelerator-india)  at [Ericsson R&D](https://www.ericsson.com/en). I currently work on telecom use-cases for Large Language Models (LLMs).
 
+I am a Senior Member of the [IEEE](https://www.ieee.org/) and Chair of the [IEEE Sensors Council](https://ieee-sensors.org/), [Bangalore Chapter](https://sensorscouncil.ieeebangalore.org/).
+
 My research interests are machine learning, telecom AI, health informatics and brain computer interfaces. 
 
 Education
@@ -21,6 +23,10 @@ Work Experience
 Prior to Ericsson, I worked with the [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), a prestigious R&D lab of the Govt. of India, with their Health Informatics Group during 2011-2021. 
 
 During 2010-2011, I was with the mobility group at [Tata Consultancy Services (TCS)](https://www.tcs.com/). 
+
+Updates
+=====
+1. Paper on ["Observations on Building RAG Systems for Technical Documents"](https://openreview.net/forum?id=RFujq4HoV4) accepted for [Tiny Papers Track](https://iclr.cc/Conferences/2024/CallForTinyPapers) @ [ICLR 2024](https://iclr.cc/).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
