@@ -1,12 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "Observations on Building RAG Systems for Technical Documents"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Retrieval augmented generation (RAG) for technical documents creates challenges as embeddings do not often capture domain information. We review prior art for important factors affecting RAG and perform experiments to highlight best practices and potential challenges to build RAG systems for technical documents.'
+date: 2024-03-20
+venue: 'ICLR 2024 Tiny Papers Track'
+paperurl: 'https://openreview.net/forum?id=RFujq4HoV4'
+citation: 'Soman, Sumit, and Sujoy Roychowdhury. "Observations on Building RAG Systems for Technical Documents." ICLR 2024 Tiny Papers Track (2024).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: Retrieval augmented generation (RAG) for technical documents creates challenges as embeddings do not often capture domain information. We review prior art for important factors affecting RAG and perform experiments to highlight best practices and potential challenges to build RAG systems for technical documents.
+
+[[Paper]](https://openreview.net/forum?id=RFujq4HoV4)
+[[Code]](https://anonymous.4open.science/r/RAG_ICLR-55CB/README.md)
