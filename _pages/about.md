@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Senior Data Scientist with the [Global AI Accelerator](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india/ericsson-in-india/global-artificial-intelligence-accelerator-india)  at [Ericsson R&D](https://www.ericsson.com/en). I currently work on telecom use-cases for Large Language Models (LLMs).
+I am a Senior Data Scientist with the [Global AI Accelerator](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/india/ericsson-in-india/global-artificial-intelligence-accelerator-india)  at [Ericsson R&D](https://www.ericsson.com/en). I currently work on telecom use-cases of Large Language Models (LLMs).
 
 I am also a Senior Member of the [IEEE](https://www.ieee.org/) and current Chair of the [IEEE Sensors Council](https://ieee-sensors.org/), [Bangalore Chapter](https://sensorscouncil.ieeebangalore.org/).
 
@@ -22,7 +22,7 @@ Work Experience
 =====
 Prior to Ericsson, I worked with the [Center for Development of Advanced Computing (CDAC)](https://www.cdac.in/), a prestigious R&D lab of the Govt. of India, with their Health Informatics Group during 2011-2021. 
 
-During 2010-2011, I was with the mobility group at [Tata Consultancy Services (TCS)](https://www.tcs.com/). 
+During 2010-2011, I was with the Mobility Group at [Tata Consultancy Services (TCS)](https://www.tcs.com/). 
 
 Updates
 =====
