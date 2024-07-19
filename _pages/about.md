@@ -28,7 +28,7 @@ Updates
 =====
 1. Ericsson Blog published - ["Objective-focused dual connectivity networks: Data-driven prioritization of 5G NSA frequency bands"](https://www.ericsson.com/en/blog/2024/7/data-driven-prioritization-of-5g-nsa-bands).
 
-2. Paper titled ["Evaluation of RAG Metrics for Question Answering in the Telecom Domain"](https://openreview.net/pdf?id=L74piNoToX) accepted for [ICML 2024 Workshop on Foundation Models in the Wild](https://icml-fm-wild.github.io). [(Code)](https://anonymous.4open. science/r/ragas_updated-FFC6)
+2. Paper titled ["Evaluation of RAG Metrics for Question Answering in the Telecom Domain"](https://openreview.net/pdf?id=L74piNoToX) accepted for [ICML 2024 Workshop on Foundation Models in the Wild](https://icml-fm-wild.github.io). ([Code](https://anonymous.4open.science/r/ragas_updated-FFC6))
 
 3. Paper on ["Observations on Building RAG Systems for Technical Documents"](https://openreview.net/forum?id=RFujq4HoV4) accepted for [Tiny Papers Track](https://iclr.cc/Conferences/2024/CallForTinyPapers) @ [ICLR 2024](https://iclr.cc/).
 
