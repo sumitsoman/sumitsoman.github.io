@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sumit Soman's Homepage"
 title_separator          : "-"
 name                     : &name "Sumit Soman"
-description              : &description "personal description"
+description              : &description "Homepage of Sumit Soman"
 url                      : https://sumitsoman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -31,7 +31,7 @@ author:
   email            : "sumitsoman@ieee.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/search/cs?searchtype=author&query=Soman,+S # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.in/citations?user=GbrCVXsAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-1926-3065"
@@ -113,7 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : CsU2HE9LmaS1IQFlgA_imDM0Uj_vpFWMT8pWDPbypcA
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
