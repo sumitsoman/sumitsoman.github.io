@@ -26,13 +26,16 @@ During 2010-2011, I was with the Mobility Group at [Tata Consultancy Services (T
 
 Updates
 =====
-1. [August 2024] Paper titled "Icing on the Cake: Automatic Code Summarization at Ericsson" accepted for publication at the [40th International Conference on Software Maintenance and Evolution (ICSME) 2024](https://conf.researchr.org/home/icsme-2024) [Industry Track](https://conf.researchr.org/track/icsme-2024/icsme-2024-industry-track). 
 
-2. [July 2024] Ericsson Blog published - ["Objective-focused dual connectivity networks: Data-driven prioritization of 5G NSA frequency bands"](https://www.ericsson.com/en/blog/2024/7/data-driven-prioritization-of-5g-nsa-bands).
+1. [March 2025] Paper titled ["Investigating Distributions of Telecom Adapted Sentence Embeddings for Document Retrieval"](https://arxiv.org/abs/2406.12336) accepted for publication at the [Workshop on Next-Gen Networks through LLMs, Action Models, and Multi-Agent Systems](https://icc2025.ieee-icc.org/workshop/ws20-workshop-next-gen-networks-through-llms-action-models-and-multi-agent-systems) to be held at [IEEE International Conference on Communications (ICC) 2025](https://icc2025.ieee-icc.org/call-workshop-papers).
 
-3. [July 2024] Paper titled ["Evaluation of RAG Metrics for Question Answering in the Telecom Domain"](https://openreview.net/pdf?id=L74piNoToX) accepted for [ICML 2024 Workshop on Foundation Models in the Wild](https://icml-fm-wild.github.io). ([Code](https://anonymous.4open.science/r/ragas_updated-FFC6))
+2. [August 2024] Paper titled "Icing on the Cake: Automatic Code Summarization at Ericsson" accepted for publication at the [40th International Conference on Software Maintenance and Evolution (ICSME) 2024](https://conf.researchr.org/home/icsme-2024) [Industry Track](https://conf.researchr.org/track/icsme-2024/icsme-2024-industry-track). 
 
-4. [May 2024] Paper on ["Observations on Building RAG Systems for Technical Documents"](https://openreview.net/forum?id=RFujq4HoV4) accepted for [Tiny Papers Track](https://iclr.cc/Conferences/2024/CallForTinyPapers) @ [ICLR 2024](https://iclr.cc/).
+3. [July 2024] Ericsson Blog published - ["Objective-focused dual connectivity networks: Data-driven prioritization of 5G NSA frequency bands"](https://www.ericsson.com/en/blog/2024/7/data-driven-prioritization-of-5g-nsa-bands).
+
+4. [July 2024] Paper titled ["Evaluation of RAG Metrics for Question Answering in the Telecom Domain"](https://openreview.net/pdf?id=L74piNoToX) accepted for [ICML 2024 Workshop on Foundation Models in the Wild](https://icml-fm-wild.github.io). ([Code](https://anonymous.4open.science/r/ragas_updated-FFC6))
+
+5. [May 2024] Paper on ["Observations on Building RAG Systems for Technical Documents"](https://openreview.net/forum?id=RFujq4HoV4) accepted for [Tiny Papers Track](https://iclr.cc/Conferences/2024/CallForTinyPapers) @ [ICLR 2024](https://iclr.cc/).
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
