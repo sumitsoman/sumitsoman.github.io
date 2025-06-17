@@ -29,7 +29,7 @@ Updates
 
 1. [May 2025] Ericsson Blog published: [Evaluating Generative AI for telecom](https://www.ericsson.com/en/blog/2025/5/evaluating-generative-ai-for-telecom)
 
-2. [May 2025] Paper titled "Intelligibility of Text-to-Speech Systems for Mathematical Expressions" accepted for [InterSpeech 2025](https://www.interspeech2025.org/home) (details to be updated soon).
+2. [May 2025] Paper titled "[Intelligibility of Text-to-Speech Systems for Mathematical Expressions](https://arxiv.org/abs/2506.11086)" accepted for [InterSpeech 2025](https://www.interspeech2025.org/home) (details to be updated soon).
 
 3. [March 2025] Paper titled ["Investigating Distributions of Telecom Adapted Sentence Embeddings for Document Retrieval"](https://arxiv.org/abs/2406.12336) accepted for publication at the [Workshop on Next-Gen Networks through LLMs, Action Models, and Multi-Agent Systems](https://icc2025.ieee-icc.org/workshop/ws20-workshop-next-gen-networks-through-llms-action-models-and-multi-agent-systems) to be held at [IEEE International Conference on Communications (ICC) 2025](https://icc2025.ieee-icc.org/call-workshop-papers).
 
