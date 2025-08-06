@@ -27,7 +27,7 @@ During 2010-2011, I was with the Mobility Group at [Tata Consultancy Services (T
 Updates
 =====
 
-1. [August 2025] Paper titled ["A Graph-based Approach for Multi-Modal Question Answering from Flowcharts in Telecom Documents"](https://www.arxiv.org/abs/2507.22938) accepted at [The First Structured Knowledge for Large Language Models Workshop](https://sknowllm.github.io/) to be held at [ACM Knowledge Discovery and Data Mining (KDD) 2025](https://kdd2025.kdd.org), Toronto, CA.
+1. [August 2025] Paper titled ["A Graph-based Approach for Multi-Modal Question Answering from Flowcharts in Telecom Documents"](https://www.arxiv.org/abs/2507.22938) accepted at [The First Structured Knowledge for Large Language Models Workshop](https://sknowllm.github.io/) at the [ACM Knowledge Discovery and Data Mining (KDD) 2025](https://kdd2025.kdd.org), Toronto, CA.
 
 2. [May 2025] Ericsson Blog published: [Evaluating Generative AI for telecom](https://www.ericsson.com/en/blog/2025/5/evaluating-generative-ai-for-telecom)
 
